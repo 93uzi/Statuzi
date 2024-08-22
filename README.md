@@ -14,7 +14,7 @@ Python 3.x : Assurez-vous que Python 3 est installé sur votre machine. Vous pou
 ### ***Installation***
 ```
 Clonez le dépôt
-git clone https://github.com/93_noushi/statuzi.git
+git clone https://github.com/93uzi/Statuzi.git
 cd statuzi
 
 Rendez le script exécutable (si nécessaire) :
